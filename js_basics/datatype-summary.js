@@ -21,3 +21,8 @@ function func1() {
 }
 console.log(typeof fruits);
 console.log(typeof fruits);
+
+
+// *******************types of memories*********************
+// STACK(primitive), HEAP(non-primitive)
+
